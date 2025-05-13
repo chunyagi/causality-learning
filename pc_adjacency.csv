@@ -1,8 +1,0 @@
-"","age","hours.per.week","hasGraduateDegree","inRelationship","isWhite","isFemale","greaterThan50k"
-"age",0,0,1,1,0,1,1
-"hours.per.week",0,0,1,0,0,1,1
-"hasGraduateDegree",0,0,0,0,1,0,1
-"inRelationship",0,1,0,0,1,1,1
-"isWhite",0,0,0,0,0,1,0
-"isFemale",0,0,0,0,0,0,0
-"greaterThan50k",0,0,0,0,1,0,0
